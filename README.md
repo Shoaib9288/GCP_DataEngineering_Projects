@@ -1,7 +1,7 @@
 # GCP_DataEngineering_Projects
-![cloud](https://github.com/Shoaib9288/GCP_DataEngineering_Projects/blob/main/GCP.gif)
+<img align="center" alt="google"  width="500" src="https://github.com/Shoaib9288/GCP_DataEngineering_Projects/blob/main/GCP.gif">
 
-- This repository gives the description of Google Cloud data engineering projects and their key components
+- This repository gives a description of Google Cloud data engineering projects and their key components
 
   ## 1. Uber-Data-Analytics
   ### URL:https://bitly.ws/39VQw
