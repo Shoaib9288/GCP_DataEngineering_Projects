@@ -1,9 +1,10 @@
 # Uber Data Analytics | Modern Data Engineering GCP Project
+<img align="center" alt="uber" width="400" src="https://github.com/Shoaib9288/Study_Materials/blob/main/Images_GIF/Uber%20Data%20Analytics.jpg">
 Introduction
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 
 ## Architecture
-![logo](https://github.com/Shoaib9288/GCP_DataEngineering_Projects/blob/main/uber-etl-pipeline-data-engineering-project/Snapshots/Architecture.jpg)
+<img alt="uber" width="800" src="https://github.com/Shoaib9288/GCP_DataEngineering_Projects/blob/main/uber-etl-pipeline-data-engineering-project/Snapshots/Architecture.jpg">
 
 ## Technology Used
 - Programming Language - Python
@@ -20,10 +21,10 @@ TLC Trip Record Data Yellow and green taxi trip records include fields capturing
 
 Here is the dataset used in the video - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
 
-More info about dataset can be found here:
+More info about the dataset can be found here:
 
 1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
    
 ## Data Model
-![logo](https://github.com/Shoaib9288/GCP_DataEngineering_Projects/blob/main/uber-etl-pipeline-data-engineering-project/Snapshots/Data_model.jpeg)
+<img alt="uber" width="800" src="https://github.com/Shoaib9288/GCP_DataEngineering_Projects/blob/main/uber-etl-pipeline-data-engineering-project/Snapshots/Data_model.jpeg">
